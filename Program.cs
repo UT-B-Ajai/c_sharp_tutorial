@@ -29,9 +29,9 @@ namespace Learning_c_sharp
                 case "4":
                     MultiDimensional.MultiDimensionalArray();
                     break;
-                //case "5":
-                //    Function.JaggedArrayExample();
-                //    break;
+                case "5":
+                    JaggedArray.JaggedArrayProgram();
+                    break;
                 default:
                     Console.WriteLine("Invalid choice.");
                     break;

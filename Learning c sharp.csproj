@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DecisionMakingProgram.cs" />
+    <Compile Include="JaggedArray.cs" />
     <Compile Include="MultiDimensional.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
