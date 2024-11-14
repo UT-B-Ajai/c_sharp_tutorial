@@ -1,0 +1,7 @@
+C:\wamp64\Learning c sharp\Learning c sharp\bin\Debug\Learning c sharp.exe.config
+C:\wamp64\Learning c sharp\Learning c sharp\bin\Debug\Learning c sharp.exe
+C:\wamp64\Learning c sharp\Learning c sharp\bin\Debug\Learning c sharp.pdb
+C:\wamp64\Learning c sharp\Learning c sharp\obj\Debug\Learning c sharp.csproj.AssemblyReference.cache
+C:\wamp64\Learning c sharp\Learning c sharp\obj\Debug\Learning c sharp.csproj.CoreCompileInputs.cache
+C:\wamp64\Learning c sharp\Learning c sharp\obj\Debug\Learning c sharp.exe
+C:\wamp64\Learning c sharp\Learning c sharp\obj\Debug\Learning c sharp.pdb
