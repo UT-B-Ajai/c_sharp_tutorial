@@ -1,9 +1,11 @@
 ﻿using System;
+using System.Windows.Forms;
 
 namespace Learning_c_sharp
 {
     class Program
     {
+        [STAThread] 
         static void Main(string[] args)
         {
             Console.WriteLine("Select a function to run:");
@@ -18,6 +20,7 @@ namespace Learning_c_sharp
             Console.WriteLine("9. Polymorphism Example");
             Console.WriteLine("10. Abstraction Example");
             Console.WriteLine("11. Interface Example");
+            Console.WriteLine("12. CRUD Example");
 
             string choice = Console.ReadLine();
 
@@ -55,6 +58,11 @@ namespace Learning_c_sharp
                     break;
                 case "11":
                     Interface.InterfaceExample();
+                    break;
+                case "12":
+                    System.Windows.Forms.Application.EnableVisualStyles();
+                    System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(false);
+                    System.Windows.Forms.Application.Run(new MainForm());
                     break;
                 default:
                     Console.WriteLine("Invalid choice.");
