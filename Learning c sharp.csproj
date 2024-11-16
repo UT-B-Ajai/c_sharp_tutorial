@@ -43,9 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstraction.cs" />
+    <Compile Include="ClassAndObject.cs" />
     <Compile Include="DecisionMakingProgram.cs" />
+    <Compile Include="Encapsulation.cs" />
+    <Compile Include="Inheritance.cs" />
+    <Compile Include="Interface.cs" />
     <Compile Include="JaggedArray.cs" />
     <Compile Include="MultiDimensional.cs" />
+    <Compile Include="Polymorphism.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimpleInterestProgram.cs" />
